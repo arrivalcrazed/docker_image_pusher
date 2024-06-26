@@ -1,1 +1,8 @@
-https://511fire.xyz/archives/1718265404302
+https://docker.mirrors.sjtug.sjtu.edu.cn
+https://docker.m.daocloud.io
+https://docker.itelyou.cf
+https://noohub.ru
+https://docker.fxxk.dedyn.io
+https://huecker.io
+https://dockerhub.timeweb.cloud
+https://registry.cn-hangzhou.aliyuncs.com
