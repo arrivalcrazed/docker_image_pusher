@@ -1,4 +1,1 @@
-https://hub-mirror.c.163.com
-https://registry.aliyuncs.com
-https://registry.docker-cn.com
-https://docker.mirrors.ustc.edu.cn
+quay.io/ceph/ceph:v17.2
